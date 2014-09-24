@@ -1,0 +1,16 @@
+{
+  "name": "Unsubtitle",
+  "description": "Remove the annoying Netflix subtitles.",
+  "version": "1.0",
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "permissions": [
+    "tabs", "http://*/*", "https://*/*"
+  ],
+  "browser_action": {
+      "default_title": "Remove subtitles",
+      "default_icon": "ico_16x16.png"
+  },
+  "manifest_version": 2
+}
