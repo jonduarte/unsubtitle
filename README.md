@@ -2,4 +2,6 @@
 
 # Unsubtitle for Netflix
 
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/d/fhallfieahekmidfbaeobbdiajlmapfg.svg) ![Chrome Web Store](https://img.shields.io/chrome-web-store/rating/fhallfieahekmidfbaeobbdiajlmapfg.svg)](https://chrome.google.com/webstore/detail/unsubtitle-for-netflix/fhallfieahekmidfbaeobbdiajlmapfg)
+
 A Chrome extension to remove subtitles from Netflix.
